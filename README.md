@@ -10,6 +10,8 @@ Correspondence to: m.a.kozielska@rug.nl or f.j.weissing@rug.nl
 We built individual-based simulations in C++ to study the evolution of learning. 
 The source files and the example of the parameter file are provided in this repository.
 
+The executable file (evolution_of_learning.exe) can be used to run the model on a Windows computer.
+
 The parameter json file should be provided as a command line argument to run a simulation.
 The parameter file's name has to end with _Parameters.json
 
